@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a43c5e1_43bb1a0f",
+        "filename": "power/power.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 192,
+      "author": {
+        "id": 5811
+      },
+      "writtenOn": "2013-10-08T19:07:42Z",
+      "side": 1,
+      "message": "This line oddly starts in a tab instead of four spaces.",
+      "revId": "c7be83a2f736cd06526e985d9defda5d82a0f47e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
