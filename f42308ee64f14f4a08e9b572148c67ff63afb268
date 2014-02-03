@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fade3982_515e1e46",
+        "filename": "power/power.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 128,
+      "author": {
+        "id": 5681
+      },
+      "writtenOn": "2014-02-03T08:59:12Z",
+      "side": 1,
+      "message": "(struct cm_power_module *)module;\nshouldnt it be\n(struct cm_power_module*)module;\n\n1 space between module and *",
+      "revId": "f42308ee64f14f4a08e9b572148c67ff63afb268",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
